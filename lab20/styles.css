@@ -1,0 +1,10 @@
+ div > span{
+    width: 600px;
+    margin: 10px auto;
+    text-align: center;
+}
+.container{
+    border: solid 1px;
+    background: #555;
+    color: #555;
+}
