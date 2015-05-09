@@ -1,0 +1,22 @@
+{
+  "name": "lab30",
+  "version": "1.0.0",
+  "description": "paquete-lab30",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "9ggomez"
+  },
+  "keywords": [
+    "prueba",
+    "ejercicio"
+  ],
+  "author": "gustavo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
